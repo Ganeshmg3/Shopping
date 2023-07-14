@@ -1,0 +1,380 @@
+.b{
+    background-color:whitesmoke;
+}
+.navbar{
+    padding: 10px;
+    color: aliceblue;
+    background: linear-gradient(to left,rgb(6, 38, 64) 0%,rgb(36, 19, 53) 51%,rgb(10, 30, 46) 100%);
+}
+.c{
+    color: white;
+
+}
+.jumbotron{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background: linear-gradient(to right,rgb(156, 206, 246) 0%,rgb(201, 146, 252) 51%,rgb(156, 206, 246) 100%);
+}
+.j-h1,.j-p{
+    border-radius: 60%;
+
+    color: white;
+    font-weight: bolder;
+}
+.j-p{
+    text-align: center;
+}
+.button{
+    font-weight: bold;
+    background-color:orange;
+    padding: 10px;
+    margin-left: 45%;
+    border-radius: 10px 20px;
+    color:white;
+    border: 2px solid white;
+}
+.button:hover{
+    background-color: white;
+    color:orange;
+    border: 2px solid orange;   
+}
+
+.card{
+    margin-top: 10px;
+    padding:12px;
+    border:2px solid green;
+    text-align: center;
+    border-radius: 40%;
+    cursor: pointer;
+}
+#img{
+    height: 200px;
+    border-radius: 10%;
+    border: 5px solid orange;
+}
+#img:hover{
+    border-radius: 10%;
+    border: 5px solid grey;
+}
+.btn{
+    position: absolute;
+    margin-top: 40%;
+    border:2px solid white;
+    margin-left: 8px;
+}
+.head{
+    padding: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px orangered blue;
+}
+.bi{
+    position: absolute;
+}
+.text{
+    position: absolute;
+    padding: 5px;
+    font-weight: bold;
+    background:linear-gradient(rgb(84, 181, 214),rgb(211, 204, 242));
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 30%;
+    color: white;
+}
+.card-body:hover{
+    color: tomato;
+}
+.card-text{
+    font-weight: bold;
+}
+.card-text:hover{
+    text-decoration: underline;
+
+}
+.cards{
+    padding: 30px;
+    background:linear-gradient(grey,lightblue,whitesmoke);
+}
+.empty{
+    padding: 12px;
+}
+.wish{
+    margin-top:15px;
+}
+.recent{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px orangered blue;
+}
+.recent-1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}.head-body{
+    color: white;
+    padding: 5px;
+    background: linear-gradient(to right,rgb(112, 221, 115) ,10%,grey 51%,lightgreen 100%);
+}
+.four{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+}
+
+.five{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 10px;
+    }
+    #img-1{
+        height: 140px;
+        width: 130px;
+        cursor: pointer;
+        
+    }
+.box-1{
+    height: 180px;
+    width: 150px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid white;
+    margin-bottom: 10px;
+}
+
+.b-model{
+    margin-top: 10px;
+    background: linear-gradient(to right,rgb(156, 206, 246) 0%,rgb(201, 146, 252) 51%,rgb(156, 206, 246) 100%);
+    margin-bottom: 10px;
+}
+.four1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+
+}
+
+.five1{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 10px;
+    }
+.white{   
+    margin-top: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+    background-color: white;
+    
+}
+.g-head{
+
+    text-align: center;
+}
+.grid-body{
+    cursor: pointer;
+}
+.sign{
+    margin-top: 25px;
+    background-color: white;
+    padding: 15px;
+    height: 200px;
+    
+}
+.btn-sign{
+    justify-content: center;
+    text-align: center;
+    margin-left: 13%;
+    margin-top: 20px;
+    align-items: center;
+    margin-bottom: 10px;
+    border-radius: 10%;
+}
+.btn-sign{
+    background-color: gold;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid white;
+    border-radius: 10%;
+
+}
+.laptop{
+    cursor: pointer;
+    margin-top: 17px;
+}
+.grid-text{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-weight:500;
+}
+.see-more{ 
+color: blue;
+margin-left: 10px;
+margin-top:20px;
+}
+.see-more:hover{
+text-decoration: underline;
+}
+#ban{
+    justify-content: center;
+    align-items: center;
+    margin-left:15%;
+}
+.banner{
+    background: linear-gradient(to right,rgb(246, 156, 204) 0%,rgb(201, 146, 252) 51%,rgb(230, 167, 112) 100%);
+    padding: 20px;
+}
+.sells{
+    margin-top: 20px;
+    background: linear-gradient(to right,rgb(156, 206, 246) 0%,rgb(201, 146, 252) 51%,rgb(156, 206, 246) 100%);
+    padding: 20px;
+}
+.card-s{
+padding: 20px;
+background-color: white;
+
+}
+.s-flex{
+    display: flex;
+    flex-direction: row;
+}
+.s1-flex{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+
+}
+#s-img{
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+#s-img-1{
+    height: 250px;
+    cursor: pointer;
+
+}
+.s-text:hover{
+    text-decoration: underline;
+    color: red; 
+    cursor: pointer;
+
+}
+.s-text-1{
+    margin-top: 16px;
+}
+.s-text-1:hover{
+    text-decoration: underline;
+    color: red;
+}
+#s-img-3{
+    height: 237px;
+}#sell{
+    height: 90px;
+        width: 90px;
+        cursor: pointer;
+}
+.box-1{
+    height:143px;
+    width: 150px;
+    cursor: pointer;
+}
+
+.final
+{ 
+    background-color: white;
+    
+}
+.s-head-1{
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 3px;
+}
+.s-body{
+    margin-bottom: 5px;
+}
+.s1-text{
+    text-align: center;
+}.banner-1{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background: linear-gradient(to left,rgb(156, 206, 246) 0%,rgb(201, 146, 252) 51%,rgb(156, 206, 246) 100%);
+    color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-family:'Times New Roman', Times, serif;
+    border-style:double;
+
+}
+#ban-1{
+    height: 250px;
+    width:  250px;
+    padding: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+.banner-head{
+    margin-top: 5%;
+    margin-left: 20px;
+}
+#rs{
+    
+    color: crimson;
+}
+#rs:hover{
+text-decoration:underline   ;
+}
+.b-text{
+    margin-top: 15px;
+}
+.sign-in{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+}
+.signin{
+    border: 2px solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+.signin{
+    border-radius: 10px;
+    background-color: gold;
+}
+.s-in1{
+    margin-top: 10px;
+}
+.back-top{
+padding:2px;
+background: linear-gradient(to left,rgb(6, 38, 64) 0%,rgb(36, 19, 53) 51%,rgb(10, 30, 46) 100%);
+color:white;
+    font-weight: bold;
+}
+.back-t{
+    text-align: center;
+    margin-top: 10px;
+}
+.foot{
+    padding: 20px;
+    color: white;
+    font-size: medium;
+    background: linear-gradient(to left,rgb(6, 38, 64) 0%,rgb(36, 19, 53) 51%,rgb(10, 30, 46) 100%);
+}
+.f-head{
+    font-weight: bold;
+}
+p:hover{
+    text-decoration: underline; 
+}
+.f-b1{
+    text-decoration: none;
+    text-align: center;
+}
